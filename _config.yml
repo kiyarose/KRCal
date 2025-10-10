@@ -1,7 +1,7 @@
 # Jekyll configuration
 # Minimal config for Cloudflare Pages deployment
 
-theme: modernist
+theme: jekyll-theme-modernist
 markdown: kramdown
 permalink: pretty
 title: KRCal
