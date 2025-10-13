@@ -1,0 +1,5 @@
+# Keep explicit 404 route returning 404 status (optional)
+/404.html  /404.html  404
+
+# SPA fallback: if a requested file/path doesn't exist, serve index.html (200)
+/*  /index.html  200
