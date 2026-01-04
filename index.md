@@ -3,7 +3,7 @@ layout: default
 title: "KR—Schedule"
 permalink: /
 ---
-<iframe src="https://calendar.google.com/calendar/embed?height=700&wkst=2&ctz=America%2FNew_York&title=KR%E2%80%94Schedule&mode=AGENDA&showTitle=0&src=OGRmNmhpcG9lMDYwdjAzNzJrOWh1bWdoMmtucG92NmVAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&src=bTZsNzg2NzIzbGE4cTJsZTlhczJsY2hkZjcyOHQzZGZAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&src=MTdrMGdsOW1iaGVqa3VpNzRsY2tmMmdiYjVlN3Rrc2RAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&src=YXAzaXQ0YWhjMzNkdHM0MzdydnB2ZjFpM2g2Y2NsNDlAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23d81b60&color=%239e69af&color=%23f4511e&color=%23616161&color=%230b8043" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=700&wkst=2&ctz=America%2FNew_York&showTz=0&showTitle=0&mode=AGENDA&showCalendars=0&src=YzE1N2M0YzY1MDg0MTc1YWNiYmNlMWVkZTIwYzRlNThkNGVmMDQ0NmI1NTA2YjJkNzdlYTRjMDE1MGY0OGRiMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=bmxjdTloNWswam5rMzIzM2U4bm44MW9uOGRnbzFwdGRAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&src=OGRmNmhpcG9lMDYwdjAzNzJrOWh1bWdoMmtucG92NmVAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&src=bTZsNzg2NzIzbGE4cTJsZTlhczJsY2hkZjcyOHQzZGZAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23d81b60&color=%239e69af&color=%23795548&color=%23e4c441&color=%230b8043" frameborder="0" scrolling="no"></iframe>
 <title>KR—Schedule</title>
 ---
 layout: default
