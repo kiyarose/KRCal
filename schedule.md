@@ -1,17 +1,9 @@
 ---
 layout: default
 title: "KR—Availability"
-permalink: /
+permalink: /schedule
 ---
-<iframe src="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3TCbM5ehbhjzz_bPCFVUB73EkmCRDyOEppPb_DMfgb2uxMKBgyNY_XauFegvP-yxbDck8tsIAB" frameborder="0" scrolling="no"></iframe>
-<title>KR—Schedule</title>
----
-layout: default
-title: KR—Schedule
-permalink: /
----
-
-<title>KR—Schedule</title>
+<title>KR—Availability</title>
 <style>
   iframe {
     border: 0;
@@ -25,4 +17,4 @@ permalink: /
     overflow: hidden;
   }
 </style>
-      }
+<iframe src="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3TCbM5ehbhjzz_bPCFVUB73EkmCRDyOEppPb_DMfgb2uxMKBgyNY_XauFegvP-yxbDck8tsIAB" frameborder="0" scrolling="no"></iframe>
