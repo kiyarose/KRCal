@@ -48,4 +48,4 @@ permalink: /schedule
   }
 </style>
 <iframe src="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3TCbM5ehbhjzz_bPCFVUB73EkmCRDyOEppPb_DMfgb2uxMKBgyNY_XauFegvP-yxbDck8tsIAB" frameborder="0" scrolling="no"></iframe>
-<a class="back-btn" href="/" aria-label="Back to Calendar">← Back to Calendar</a>
+<a class="back-btn" href="/" aria-label="Back to Calendar">←Back</a>
